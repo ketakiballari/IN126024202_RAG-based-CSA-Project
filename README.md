@@ -47,7 +47,4 @@ User → Document Processing → Retrieval → Decision → Output / Human
 * Build web-based interface
 * Add conversational memory
 
-## Author
 
-Ketaki B
-Internship ID: IN126047202
